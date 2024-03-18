@@ -4,4 +4,7 @@
 #Needed_softwares
   artic
   clair3
-  
+
+#For running until Variant calling using artic pipe
+
+
